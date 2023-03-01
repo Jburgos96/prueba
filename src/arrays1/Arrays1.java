@@ -13,7 +13,7 @@ public class Arrays1 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
+		System.out.println("cambio");
 		int m = 5;
 
 		int[] a = new int[m];
